@@ -1,6 +1,6 @@
 ## 🌐 Web Developer | Frontend Enthusiast
 
-Hey there! 👋 I'm Fabiano Schaefer, a web developer crafting user-friendly and visually appealing web applications. My journey in the digital world has been an exciting ride, and I'm always eager to take on new challenges and learn new technologies.
+Hey there! 👋 I'm Fabiano, a web developer crafting user-friendly and visually appealing web applications. My journey in the digital world has been an exciting ride, and I'm always eager to take on new challenges and learn new technologies.
 
 ### 💼 What I Do:
 
@@ -28,7 +28,3 @@ I'm a firm believer in lifelong learning. Technology is constantly evolving, and
 ### 🤝 Let's Collaborate:
 
 I'm open to collaborations, open-source contributions, and new projects. If you have an exciting project idea, want to discuss web development, or just want to connect, feel free to reach out. Let's build something great together! 🚀
-
-### 📫 Contact Me:
-
-- 💼 LinkedIn: [Fabiano Schaefer](https://www.linkedin.com/in/ectkw6bhk9/)
